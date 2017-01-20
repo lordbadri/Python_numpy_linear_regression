@@ -1,2 +1,3 @@
 #Python Numpy stack and Linear regression
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-CH5PHW28.jpg)
+![Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-CH5PHW28.jpg)
